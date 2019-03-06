@@ -1,0 +1,8 @@
+.main-body{
+  padding: 10px;
+  box-shadow: 0px 0px 5px 5px #888888;
+  margin:70px;
+}
+.main-body .container-body{
+  box-shadow: 0px 0px 5px 5px #888888;
+}
