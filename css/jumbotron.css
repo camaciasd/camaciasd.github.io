@@ -1,0 +1,23 @@
+.jumbotron-shadow{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.jumbotron-shadow a:link {
+  color: black;
+}
+
+.jumbotron-shadow a:visited{
+  color: black;
+}
+
+.jumbotron-shadow a:hover{
+  color: black;
+}
+
+.jumbotron-shadow a:active{
+  color: black;
+}
+
+.contact-row{
+  font-weight: bold;
+}
