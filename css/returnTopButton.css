@@ -1,6 +1,6 @@
 .back-to-top {
   position: fixed;
-  bottom: 61px;
+  bottom: 70px;
   right: 20px;
   z-index: 1;
   color: white;
@@ -9,16 +9,20 @@
 
 .back-to-top a:link {
   color: black;
+  font-weight: bold;
 }
 
 .back-to-top a:visited{
   color: black;
+  font-weight: bold;
 }
 
 .back-to-top a:hover{
   color: black;
+  font-weight: bold;
 }
 
 .back-to-top a:active{
   color: black;
+  font-weight: bold;
 }
