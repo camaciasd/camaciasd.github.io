@@ -4,18 +4,22 @@
 
 .jumbotron-shadow a:link {
   color: black;
+  text-decoration: none;
 }
 
 .jumbotron-shadow a:visited{
   color: black;
+  text-decoration: none;
 }
 
 .jumbotron-shadow a:hover{
   color: black;
+  text-decoration: none;
 }
 
 .jumbotron-shadow a:active{
   color: black;
+  text-decoration: none;
 }
 
 .contact-row{
