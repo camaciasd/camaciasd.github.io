@@ -12,3 +12,24 @@
 hr{
   border-color: black;
 }
+
+ul.items {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+ul.items li {
+  font-weight: bold;
+  font-size: 0.75rem;
+  border-radius: 25%;
+  background-color: #343a40!important;
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  padding: 5px;
+  margin-left: 5px;
+}
