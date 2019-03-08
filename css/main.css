@@ -12,23 +12,12 @@ hr{
   border-color: black;
 }
 
-ul.items {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
-
-ul.items li {
+ul.list-inline li.list-inline-item {
   font-weight: bold;
   font-size: 0.75rem;
-  border-radius: 25%;
+  border-radius: 100%;
   background-color: #343a40!important;
-  float: left;
-  display: block;
   color: white;
   text-align: center;
-  text-decoration: none;
   padding: 5px;
-  margin: 5px;
 }
