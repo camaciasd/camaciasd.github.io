@@ -4,6 +4,22 @@
   margin-bottom: 70px;
 }
 
+a:link {
+  color: black;
+}
+
+a:visited{
+  color: black;
+}
+
+a:hover{
+  color: black;
+}
+
+a:active{
+  color: black;
+}
+
 .card-style{
   box-shadow: 0px 0px 5px 5px #888888;
 }
