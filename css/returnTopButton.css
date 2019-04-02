@@ -8,21 +8,25 @@
 }
 
 .back-to-top a:link {
-  color: black;
+  color: #4D75FF;
   font-weight: bold;
+  text-decoration: none;
 }
 
 .back-to-top a:visited{
-  color: black;
+  color: #4D75FF;
   font-weight: bold;
+  text-decoration: none;
 }
 
 .back-to-top a:hover{
-  color: black;
+  color: #4D75FF;
   font-weight: bold;
+  text-decoration: none;
 }
 
 .back-to-top a:active{
-  color: black;
+  color: #4D75FF;
   font-weight: bold;
+  text-decoration: none;
 }
