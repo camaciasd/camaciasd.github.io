@@ -4,6 +4,10 @@
   margin-bottom: 70px;
 }
 
+nav{
+  background-color: #3361FF;
+}
+
 a:link {
   color: black;
 }
