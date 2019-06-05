@@ -1,4 +1,5 @@
 .back-to-top {
+  
   position: fixed;
   bottom: 70px;
   right: 10px;
@@ -8,25 +9,25 @@
 }
 
 .back-to-top a:link {
-  color: #4D75FF;
+  color: #1C4C96!important;
   font-weight: bold;
   text-decoration: none;
 }
 
 .back-to-top a:visited{
-  color: #4D75FF;
+  color: #1C4C96!important;
   font-weight: bold;
   text-decoration: none;
 }
 
 .back-to-top a:hover{
-  color: #4D75FF;
+  color: #1C4C96!important;
   font-weight: bold;
   text-decoration: none;
 }
 
 .back-to-top a:active{
-  color: #4D75FF;
+  color: #1C4C96!important;
   font-weight: bold;
   text-decoration: none;
 }
