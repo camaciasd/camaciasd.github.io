@@ -95,7 +95,10 @@
 					</div>
 					<div class="row contact-row">
 						<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-								<button type="button" id="cvBoton" class="btn btn-outline-dark btn-lg btn-block">Descargar CV</button>
+							<button type="button" id="cvBoton" class="btn btn-outline-dark btn-lg btn-block"
+								data-toggle="modal" data-target="#CVModal">
+								Descargar CV
+							</button>
 						</div>
 					</div>
 				</div>
@@ -609,6 +612,26 @@
 								<img src="img/diplomas/UC-0MUFWRH8.jpg" class="img-fluid" alt="Diploma">
 							</div>
 						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Modal del CV -->
+
+	<div class="modal fade" id="CVModal" tabindex="-1" role="dialog" aria-labelledby="CVModalLabel" aria-hidden="true">
+		<div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+			<div class="modal-content">
+				<div class="modal-header card-header">
+					<h5 class="modal-title" id="CVModalTitle">Curriculum</h5>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Cerrar">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<div class="container-fluid">
+						<object data="pdf/CV.pdf" type="application/pdf" width="100%" height="100%"></object>
 					</div>
 				</div>
 			</div>
